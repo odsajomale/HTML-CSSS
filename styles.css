@@ -8,6 +8,12 @@ p{
     color:lightpink
 }
 
+h1,h2,h3,h4,h5,h6 {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color:lightyellow
+font-style: italic; 
+text-align: right;
+}
 
 h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -19,10 +25,3 @@ h1 {
 h2 {
     color:black;
 }
-
-h1,h2,h3,h4,h5,h6 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:lightyellow
-    font-style: italic; 
-    text-align: right;
-    }
