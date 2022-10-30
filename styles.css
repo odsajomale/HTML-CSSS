@@ -84,3 +84,8 @@ font-size: 15px;
 font-display: italic;
 
 }
+
+.container {
+
+    display: flex;
+}
