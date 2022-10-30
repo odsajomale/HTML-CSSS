@@ -82,12 +82,14 @@ darkslateblue;
 .caption {
 font-size: 15px;
 font-display: italic;
+text-align: center;
 
 }
 
 .container {
-
     display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .cake-item{
